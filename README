@@ -1,0 +1,4 @@
+###
+run as  
+$ ./Hello num
+num can be any number: 0-9
